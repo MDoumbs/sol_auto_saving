@@ -1,0 +1,10 @@
+[package]
+name = "sol_auto_saving"
+version = "0.1.0"
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anchor-lang = "0.26.0"
