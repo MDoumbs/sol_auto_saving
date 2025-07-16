@@ -1,0 +1,11 @@
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/sbf-solana-solana/release/deps/libgetrandom-a0a63fefd631a9db.rmeta: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/sbf-solana-solana/release/deps/libgetrandom-a0a63fefd631a9db.rlib: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/sbf-solana-solana/release/deps/getrandom-a0a63fefd631a9db.d: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs
+
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error_impls.rs:

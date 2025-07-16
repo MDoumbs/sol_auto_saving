@@ -1,0 +1,10 @@
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/release/deps/libproc_macro2_diagnostics-faf9f3a27358dd9b.rmeta: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/release/deps/libproc_macro2_diagnostics-faf9f3a27358dd9b.rlib: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/doumbs/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/release/deps/proc_macro2_diagnostics-faf9f3a27358dd9b.d: /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/home/doumbs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.9.1/src/line.rs:

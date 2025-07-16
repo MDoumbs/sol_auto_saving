@@ -2,8 +2,13 @@
 resolution = true
 skip-lint = false
 
+[programs]
 [programs.devnet]
-sol_auto_saving = "BKJ552hX7xU4KXYDaduug9mHLdSDiPX7xCcUtUSGJhL4"
+sol_auto_saving = "6bvNYbKiPgpzyjV6CMJZH3jAnaYVoRauuPw2TdD2n98T"
+
+[programs.localnet]
+sol_auto_saving = "6bvNYbKiPgpzyjV6CMJZH3jAnaYVoRauuPw2TdD2n98T"
+
 
 [registry]
 url = "https://api.apr.dev"
@@ -12,7 +17,8 @@ url = "https://api.apr.dev"
 cluster = "https://api.devnet.solana.com"
 wallet = "~/.config/solana/id.json"
 
-[scripts]
-test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
 [toolchain]
 anchor_version = "0.26.0"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

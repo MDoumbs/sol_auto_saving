@@ -2,10 +2,11 @@
 
 use anchor_lang::prelude::*;
 
-declare_id!("BKJ552hX7xU4KXYDaduug9mHLdSDiPX7xCcUtUSGJhL4");
+declare_id!("6bvNYbKiPgpzyjV6CMJZH3jAnaYVoRauuPw2TdD2n98T");
+
 
 #[program]
-pub mod sol_saving_app {
+pub mod sol_auto_saving {
     use super::*;
 
     /// Initialise un compte utilisateur avec un nom et l'adresse de l'autorité (wallet)

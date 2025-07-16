@@ -1,0 +1,1 @@
+/home/doumbs/Documents/anchor-projects/sol_auto_saving/programs/sol_auto_saving/target/sbf-solana-solana/release/sol_auto_saving.so: /home/doumbs/Documents/anchor-projects/sol_auto_saving/programs/sol_auto_saving/src/lib.rs
